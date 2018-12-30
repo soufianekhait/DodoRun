@@ -1,5 +1,5 @@
 # DodoRun
-2D game
+2D video game whose concept is avoiding obstacles using the keyboard’s directional arrows. The game’s speed increases following the progress. When the player and one of the obstacles collide, the game ends and the score is displayed.
 
 ### Prerequisites
 - SFML Library C++
